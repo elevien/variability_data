@@ -4,36 +4,40 @@
     "source_data":"Stewart et al. (2005)",
     "source_analysis":"Lin and Amir (2017)",
     "initial_size_avg":0.01,
+    "growth_rate_avg":0.025,
+    "growth_rate_std":0.004,
     "growth_rate_cv":0.19,
     "sample-size":635
     },
     {"organism":"E coli.",
       "condition":"Mother Machine",
-      "temperature":37,
+      "temperature":25,
       "source_data":"Y. Tanouchi et al. (2017)",
       "source_analysis":"Levien at al.",
-      "growth_rate_avg":0.02,
-      "growth_rate_std":0.1,
-      "growth_rate_cv":0.18,
-      "sample-size":1000
+      "growth_rate_avg":0.0124,
+      "growth_rate_std":0.001,
+      "growth_rate_cv":0.087,
+      "sample-size":4550
       },
       {"organism":"E coli.",
         "condition":"Mother Machine",
         "temperature":27,
         "source_data":"Y. Tanouchi et al. (2017)",
         "source_analysis":"Levien at al.",
-        "growth_rate_avg":0.02,
-        "growth_rate_std":0.1,
-        "growth_rate_cv":0.18,
-        "sample_size":1000
+        "growth_rate_avg":0.016,
+        "growth_rate_std":0.016,
+        "growth_rate_cv":0.1031,
+        "sample_size":3780
       },
       {"organism":"E coli.",
         "condition":"Mother Machine",
-        "source_data":"Taheri-Araghi et al. (2014)",
-        "source_analysis":"Taheri-Araghi et al. (2014)",
-        "growth_rate_avg":0.02,
-        "growth-rate_std":0.1,
-        "growth_rate_cv":0.19,
-        "sample_size":1000
-        }]
+        "temperature":37,
+        "source_data":"Y. Tanouchi et al. (2017)",
+        "source_analysis":"Levien at al.",
+        "growth_rate_avg":0.025,
+        "growth_rate_std":0.0021,
+        "growth_rate_cv":0.0021,
+        "sample_size":11200
+      }
+      ]
 }
