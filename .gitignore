@@ -1,0 +1,8 @@
+*.aux
+*__pycache__
+*.egg*
+*.tif*
+**/sandbox*
+**/output*
+**/analysis_output*
+**/experimental_data*
